@@ -1,0 +1,14 @@
+#ifndef RBC_CSTATE_H
+#define RBC_CSTATE_H
+
+
+class RBC_CState
+{
+	protected:
+		
+	public:
+		RBC_StartState)
+
+};
+
+#endif // RBC_CSTATE_H

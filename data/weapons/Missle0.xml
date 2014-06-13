@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<missle>
+	<missle damage="10" speed="10" height="10" startframe="3"/>
+	<hitbox x="10" y="10" w="50" h="200"/>
+</missle>

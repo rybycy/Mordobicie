@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Mordobicie" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Mordobicie" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32 -lSDLmain -lSDL -lSDL_ttf" />
+					<Add directory="C:\Program Files (x86)\CodeBlocks\SDL\lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Mordobicie" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lmingw32 -lSDLmain -lSDL -lSDL_ttf" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:\Program Files\CodeBlocks\SDL\include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDLmain -lSDL -lSDL_ttf" />
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add library="C:\Program Files (x86)\CodeBlocks\SDL\lib\SDL_ttf.lib" />
+			<Add directory="C:\Program Files\CodeBlocks\SDL\lib" />
+		</Linker>
+		<Unit filename="RBC_CEngineFunctions.cpp" />
+		<Unit filename="RBC_CEngineFunctions.h" />
+		<Unit filename="RBC_CGameManager.cpp" />
+		<Unit filename="RBC_CGameManager.h" />
+		<Unit filename="RBC_CHero.cpp" />
+		<Unit filename="RBC_CHero.h" />
+		<Unit filename="RBC_CHeroAction.cpp" />
+		<Unit filename="RBC_CHeroAction.h" />
+		<Unit filename="RBC_CHeroBasicAttack.cpp" />
+		<Unit filename="RBC_CHeroBasicAttack.h" />
+		<Unit filename="RBC_CHeroComplexAction.cpp" />
+		<Unit filename="RBC_CHeroComplexAction.h" />
+		<Unit filename="RBC_CHeroSpecialAttack.cpp" />
+		<Unit filename="RBC_CHeroSpecialAttack.h" />
+		<Unit filename="RBC_CHeroesMenuState.cpp" />
+		<Unit filename="RBC_CHeroesMenuState.h" />
+		<Unit filename="RBC_CHitbox.cpp" />
+		<Unit filename="RBC_CHitbox.h" />
+		<Unit filename="RBC_CKeyboard.cpp" />
+		<Unit filename="RBC_CKeyboard.h" />
+		<Unit filename="RBC_CMap.cpp" />
+		<Unit filename="RBC_CMap.h" />
+		<Unit filename="RBC_CMissle.cpp" />
+		<Unit filename="RBC_CMissle.h" />
+		<Unit filename="RBC_CPlayer.cpp" />
+		<Unit filename="RBC_CPlayer.h" />
+		<Unit filename="RBC_CPlayerState.cpp" />
+		<Unit filename="RBC_CPlayerState.h" />
+		<Unit filename="RBC_CState.cpp" />
+		<Unit filename="RBC_CState.h" />
+		<Unit filename="RBC_CXMLParser.cpp" />
+		<Unit filename="RBC_CXMLParser.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="tinyxml\tinyxml_sources\tinystr.cpp" />
+		<Unit filename="tinyxml\tinyxml_sources\tinyxml.cpp" />
+		<Unit filename="tinyxml\tinyxml_sources\tinyxmlerror.cpp" />
+		<Unit filename="tinyxml\tinyxml_sources\tinyxmlparser.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<wxsmith version="1">
+				<gui name="wxWidgets" src="" main="" init_handlers="necessary" language="CPP" />
+			</wxsmith>
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+			<envvars />
+			<AutoVersioning>
+				<Scheme minor_max="10" build_max="0" rev_max="0" rev_rand_max="10" build_times_to_increment_minor="100" />
+				<Settings autoincrement="1" date_declarations="1" do_auto_increment="0" ask_to_increment="0" language="C++" svn="0" svn_directory="" header_path="version.h" />
+				<Changes_Log show_changes_editor="0" app_title="released version %M.%m.%b of %p" changeslog_path="ChangesLog.txt" />
+				<Code header_guard="VERSION_H" namespace="AutoVersion" prefix="" />
+			</AutoVersioning>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

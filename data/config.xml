@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+	<global>
+		<debugmode>1</debugmode>	
+	</global>
+	<keybinding>
+		<player number="0">
+			<RIGHT>100</RIGHT>
+			<LEFT>97</LEFT>
+			<KNEEL>115</KNEEL>
+			<JUMP>119</JUMP>
+			<HEAVYPUNCH>117</HEAVYPUNCH>
+			<HEAVYKICK>106</HEAVYKICK>
+			<MEDIUMPUNCH>105</MEDIUMPUNCH>
+			<MEDIUMKICK>107</MEDIUMKICK>
+			<LIGHTPUNCH>111</LIGHTPUNCH>
+			<LIGHTKICK>108</LIGHTKICK>
+			<BLOCK>112</BLOCK>
+			<THROW>59</THROW>
+		</player>
+		<player number="1">
+			<RIGHT>275</RIGHT>
+			<LEFT>276</LEFT>
+			<KNEEL>274</KNEEL>
+			<JUMP>273</JUMP>
+			<HEAVYPUNCH>260</HEAVYPUNCH>
+			<HEAVYKICK>257</HEAVYKICK>
+			<MEDIUMPUNCH>261</MEDIUMPUNCH>
+			<MEDIUMKICK>258</MEDIUMKICK>
+			<LIGHTPUNCH>262</LIGHTPUNCH>
+			<LIGHTKICK>259</LIGHTKICK>
+			<BLOCK>271</BLOCK>
+			<THROW>270</THROW>
+		</player>
+	</keybinding>
+</options>

@@ -1,0 +1,20 @@
+#ifndef RBC_CHEROSPECIALATTACK_H
+#define RBC_CHEROSPECIALATTACK_H
+
+#include "RBC_CHeroBasicAttack.h"
+#include "RBC_CPlayerState.h"
+#include <vector.h>
+
+class RBC_CHeroSpecialAttack : public RBC_CHeroBasicAttack
+{
+	vector<RBC_CPlayerState> combination; /**< Combination of states your hero have to perfor */
+
+	public:
+
+	RBC_CHeroSpecialAttack(const char *naem);
+	void RBC_AddToCombination(int a, int b){RBC_CPlayerState x;x.state=a;x.value=b;combination.push_back(x);}
+	bool RBC_IsSpecialAttackExecuted(vector<RBC_CPlayerState> states, vector<int> times);
+	void RBC_PushBackHitbox(int x, int y, int w, int h, int start, int finish, bool offensive);
+};
+
+#endif // RBC_CHEROSPECIALATTACK_H

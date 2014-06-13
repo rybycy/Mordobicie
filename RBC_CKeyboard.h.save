@@ -1,0 +1,37 @@
+#ifndef RBC_CKEYBOARD_H
+#define RBC_CKEYBOARD_H
+
+#include <SDL.h>
+#include <vector.h>
+#include "RBC_CXMLParser.h"
+#include "RBC_CGameManager.h"
+#include "RBC_CEngineFunctions.h"
+
+class RBC_CKeyboard
+{
+	private:
+		static vector<int> history; /**< The history of latest key presses */
+		static SDL_Event event;		/**< Type made for catching events, especially keyboard ones */
+		static bool lastkey;
+
+		static void (*buttonbindings[323])();
+
+		static void RBC_AddToHistory(int key);
+
+	public:
+		
+		static boll 
+		static void RBC_BindButtons(void);
+
+		static bool RBC_KeyPressed(int key);
+
+		static bool RBC_KeyDown(int key); /**< This method checks if concrete key (given as an argument) is pressed */
+
+		static void RBC_Refresh(void){SDL_PollEvent(&event);}
+
+		static void RBC_DrawHistory(void);
+
+		static void RBC_GetKeys(void);
+};
+
+#endif // RBC_CKEYBOARD_H

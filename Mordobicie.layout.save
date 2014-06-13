@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="RBC_CEngineFunctions.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="4130" topLine="109" />
+	</File>
+	<File name="RBC_CEngineFunctions.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="1657" topLine="15" />
+	</File>
+	<File name="RBC_CGameManager.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="5580" topLine="108" />
+	</File>
+	<File name="RBC_CGameManager.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="2503" topLine="27" />
+	</File>
+	<File name="RBC_CHero.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="486" topLine="0" />
+	</File>
+	<File name="RBC_CHero.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="1398" topLine="0" />
+	</File>
+	<File name="RBC_CHeroAction.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="1725" topLine="57" />
+	</File>
+	<File name="RBC_CHeroAction.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="1830" topLine="12" />
+	</File>
+	<File name="RBC_CHeroBasicAttack.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="188" topLine="0" />
+	</File>
+	<File name="RBC_CHeroBasicAttack.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="200" topLine="0" />
+	</File>
+	<File name="RBC_CHeroComplexAction.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="3463" topLine="14" />
+	</File>
+	<File name="RBC_CHeroComplexAction.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="426" topLine="0" />
+	</File>
+	<File name="RBC_CHeroSpecialAttack.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="664" topLine="0" />
+	</File>
+	<File name="RBC_CHeroSpecialAttack.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="418" topLine="0" />
+	</File>
+	<File name="RBC_CHeroesMenuState.h" open="1" top="1" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="0" topLine="0" />
+	</File>
+	<File name="RBC_CHitbox.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="465" topLine="0" />
+	</File>
+	<File name="RBC_CKeyboard.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="544" topLine="0" />
+	</File>
+	<File name="RBC_CKeyboard.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="430" topLine="0" />
+	</File>
+	<File name="RBC_CMap.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="424" topLine="0" />
+	</File>
+	<File name="RBC_CMap.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="402" topLine="0" />
+	</File>
+	<File name="RBC_CMissle.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="1032" topLine="0" />
+	</File>
+	<File name="RBC_CMissle.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="563" topLine="8" />
+	</File>
+	<File name="RBC_CPlayer.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="8175" topLine="203" />
+	</File>
+	<File name="RBC_CPlayer.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="3206" topLine="78" />
+	</File>
+	<File name="RBC_CPlayerState.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="239" topLine="0" />
+	</File>
+	<File name="RBC_CState.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="129" topLine="0" />
+	</File>
+	<File name="RBC_CState.h" open="1" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="138" topLine="0" />
+	</File>
+	<File name="RBC_CXMLParser.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="223" topLine="0" />
+	</File>
+	<File name="RBC_CXMLParser.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="287" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="183" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,1215 @@
+Requesting new hero...
+Class CHero has received name of hero:'Subzero'
+Creating action standingCreating action walkingCreating action walkingCreating action kneelingCreating action jumpingCreating action blockCreating action throwingCreating action hitCreating action knockdownCreating basic attack heavypunchCreating basic attack heavykickCreating basic attack mediumpunchCreating basic attack mediumkickCreating basic attack lightpunchCreating basic attack lightkickHero loaded
+Requesting new hero...
+Class CHero has received name of hero:'Supzero'
+Creating action standingCreating action walkingCreating action walkingCreating action kneelingCreating action jumpingCreating action blockCreating action throwingCreating action hitCreating action knockdownCreating basic attack heavypunchCreating basic attack heavykickCreating basic attack mediumpunchCreating basic attack mediumkickCreating basic attack lightpunchCreating basic attack lightkickHero loaded
+Requesting new hero...
+Class CHero has received name of hero:'Equalszero'
+Creating action standingCreating action walkingCreating action walkingCreating action kneelingCreating action jumpingCreating action blockCreating action throwingCreating action hitCreating action knockdownCreating basic attack heavypunchCreating basic attack heavykickCreating basic attack mediumpunchCreating basic attack mediumkickCreating basic attack lightpunchCreating basic attack lightkickHero loaded
+Requesting new hero...
+Class CHero has received name of hero:'Infzero'
+Creating action standingCreating action walkingCreating action walkingCreating action kneelingCreating action jumpingCreating action blockCreating action throwingCreating action hitCreating action knockdownCreating basic attack heavypunchCreating basic attack heavykickCreating basic attack mediumpunchCreating basic attack mediumkickCreating basic attack lightpunchCreating basic attack lightkickHero loaded
+Requesting new hero...
+Nothing found, exiting
+Thumbnail from path data/thumbnails/heroes/Subzero.png loaded successfully
+Thumbnail from path data/thumbnails/heroes/Supzero.png loaded successfully
+Thumbnail from path data/thumbnails/heroes/Equalszero.png loaded successfully
+Thumbnail from path data/thumbnails/heroes/Infzero.png loaded successfully
+Found key bindings for player[0] 
+	Loading KEY_RIGHT for player 0 on key 100...
+	Loading KEY_LEFT for player 0 on key 97...
+	Loading KEY_KNEEL for player 0 on key 115...
+	Loading KEY_JUMP for player 0 on key 119...
+	Loading KEY_HEAVYPUNCH for player 0 on key 117...
+	Loading KEY_HEAVYKICK for player 0 on key 106...
+	Loading KEY_MEDIUMPUNCH for player 0 on key 105...
+	Loading KEY_MEDIUMKICK for player 0 on key 107...
+	Loading KEY_LIGHTPUNCH for player 0 on key 111...
+	Loading KEY_LIGHTKICK for player 0 on key 108...
+	Loading KEY_BLOCK for player 0 on key 112...
+	Loading KEY_THROW for player 0 on key 59...
+Found key bindings for player[1] 
+	Loading KEY_RIGHT for player 1 on key 275...
+	Loading KEY_LEFT for player 1 on key 276...
+	Loading KEY_KNEEL for player 1 on key 274...
+	Loading KEY_JUMP for player 1 on key 273...
+	Loading KEY_HEAVYPUNCH for player 1 on key 260...
+	Loading KEY_HEAVYKICK for player 1 on key 257...
+	Loading KEY_MEDIUMPUNCH for player 1 on key 261...
+	Loading KEY_MEDIUMKICK for player 1 on key 258...
+	Loading KEY_LIGHTPUNCH for player 1 on key 262...
+	Loading KEY_LIGHTKICK for player 1 on key 259...
+	Loading KEY_BLOCK for player 1 on key 271...
+	Loading KEY_THROW for player 1 on key 270...
+Thumbnail from path data/thumbnails/maps/Map0.png loaded successfully
+Thumbnail from path data/thumbnails/maps/Map1.png loaded successfully
+Thumbnail from path data/thumbnails/maps/Map2.png loaded successfully
+Thumbnail from path data/thumbnails/maps/Map3.png loaded successfully
+Thumbnail from path data/thumbnails/maps/Map4.png loaded successfully
+Trying to load bitmap from data/maps/Map3.png ...
+DONE
+Setting hero Supzero for player
+Loading hero resources
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/standing/Supzero0.png done
+	Loading data/heroes/Supzero/graphics/standing/Supzero1.png done
+	Loading data/heroes/Supzero/graphics/standing/Supzero2.png done
+	Loading data/heroes/Supzero/graphics/standing/Supzero3.png done
+	Loading data/heroes/Supzero/graphics/standing/Supzero4.png done
+	Loading data/heroes/Supzero/graphics/standing/Supzero5.png done
+	Loading data/heroes/Supzero/graphics/standing/Supzero6.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+Loading multipier for standing...
+	Loading multipier for standing -> 4
+Loading multipier finished
+
+Loading repeat for standing...
+Loading repeat finished
+
+Loading length for standing...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 4; rpt- 0; len- 0) finished
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/walking/Supzero0.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero1.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero2.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero3.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero4.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero5.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero6.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero7.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+Loading multipier for walking...
+	Loading multipier for walking -> 4
+Loading multipier finished
+
+Loading repeat for walking...
+	Loading repeat for walking -> 1
+Loading repeat finished
+
+Loading length for walking...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 4; rpt- 1; len- 0) finished
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/walking/Supzero0.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero1.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero2.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero3.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero4.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero5.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero6.png done
+	Loading data/heroes/Supzero/graphics/walking/Supzero7.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+Loading multipier for walking...
+	Loading multipier for walking -> 4
+Loading multipier finished
+
+Loading repeat for walking...
+	Loading repeat for walking -> 1
+Loading repeat finished
+
+Loading length for walking...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 4; rpt- 1; len- 0) finished
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/kneeling/Supzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for kneeling
+Loading multipier for kneeling...
+	Loading multipier for kneeling -> 10
+Loading multipier finished
+
+Loading repeat for kneeling...
+	Loading repeat for kneeling -> 1
+Loading repeat finished
+
+Loading length for kneeling...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 10; rpt- 1; len- 0) finished
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/jumping/Supzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for jumping
+Loading multipier for jumping...
+	Loading multipier for jumping -> 30
+Loading multipier finished
+
+Loading repeat for jumping...
+Loading repeat finished
+
+Loading length for jumping...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 30; rpt- 0; len- 0) finished
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/block/Supzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for block
+Loading multipier for block...
+	Loading multipier for block -> 2
+Loading multipier finished
+
+Loading repeat for block...
+	Loading repeat for block -> 1
+Loading repeat finished
+
+Loading length for block...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 2; rpt- 1; len- 0) finished
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/throwing/Supzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for throwing
+Loading multipier for throwing...
+	Loading multipier for throwing -> 10
+Loading multipier finished
+
+Loading repeat for throwing...
+Loading repeat finished
+
+Loading length for throwing...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 10; rpt- 0; len- 0) finished
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/hit/Supzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for hit
+Loading multipier for hit...
+	Loading multipier for hit -> 10
+Loading multipier finished
+
+Loading repeat for hit...
+Loading repeat finished
+
+Loading length for hit...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 10; rpt- 0; len- 0) finished
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/knockdown/Supzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for knockdown
+Loading multipier for knockdown...
+	Loading multipier for knockdown -> 10
+Loading multipier finished
+
+Loading repeat for knockdown...
+Loading repeat finished
+
+Loading length for knockdown...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 10; rpt- 0; len- 0) finished
+Habaziaba
+Habaziaba
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/crouching/Supzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+COMPLEX complexaction-crouching
+	I've just finished loading hitbox for crouching
+dodaje 0 3 
+dodaje 0 1 
+Loading multipier for crouching...
+	Loading multipier for crouching -> 2
+Loading multipier finished
+
+Loading repeat for crouching...
+	Loading repeat for crouching -> 1
+Loading repeat finished
+
+Loading length for crouching...
+Loading length finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/crouching/Supzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+COMPLEX complexaction-crouching
+	I've just finished loading hitbox for crouching
+dodaje 0 3 
+dodaje 0 1 
+Loading multipier for crouching...
+	Loading multipier for crouching -> 2
+Loading multipier finished
+
+Loading repeat for crouching...
+	Loading repeat for crouching -> 1
+Loading repeat finished
+
+Loading length for crouching...
+Loading length finished
+
+Loading hitboxes finished
+
+Habaziaba
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/heavypunch/Supzero0.png done
+	Loading data/heroes/Supzero/graphics/heavypunch/Supzero1.png done
+	Loading data/heroes/Supzero/graphics/heavypunch/Supzero2.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for heavypunch
+	I've just finished loading hitbox for heavypunch
+Loading multipier for heavypunch...
+	Loading multipier for heavypunch -> 10
+Loading multipier finished
+
+Loading repeat for heavypunch...
+Loading repeat finished
+
+Loading length for heavypunch...
+Loading length finished
+
+Loading damage for heavypunch...
+	Loading damage for heavypunch -> 50
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/heavykick/Supzero0.png done
+	Loading data/heroes/Supzero/graphics/heavykick/Supzero1.png done
+	Loading data/heroes/Supzero/graphics/heavykick/Supzero2.png done
+	Loading data/heroes/Supzero/graphics/heavykick/Supzero3.png done
+	Loading data/heroes/Supzero/graphics/heavykick/Supzero4.png done
+	Loading data/heroes/Supzero/graphics/heavykick/Supzero5.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for heavykick
+	I've just finished loading hitbox for heavykick
+Loading multipier for heavykick...
+	Loading multipier for heavykick -> 10
+Loading multipier finished
+
+Loading repeat for heavykick...
+Loading repeat finished
+
+Loading length for heavykick...
+Loading length finished
+
+Loading damage for heavykick...
+	Loading damage for heavykick -> 50
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/mediumpunch/Supzero0.png done
+	Loading data/heroes/Supzero/graphics/mediumpunch/Supzero1.png done
+	Loading data/heroes/Supzero/graphics/mediumpunch/Supzero2.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for mediumpunch
+	I've just finished loading hitbox for mediumpunch
+Loading multipier for mediumpunch...
+	Loading multipier for mediumpunch -> 10
+Loading multipier finished
+
+Loading repeat for mediumpunch...
+Loading repeat finished
+
+Loading length for mediumpunch...
+Loading length finished
+
+Loading damage for mediumpunch...
+	Loading damage for mediumpunch -> 25
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/mediumkick/Supzero0.png done
+	Loading data/heroes/Supzero/graphics/mediumkick/Supzero1.png done
+	Loading data/heroes/Supzero/graphics/mediumkick/Supzero2.png done
+	Loading data/heroes/Supzero/graphics/mediumkick/Supzero3.png done
+	Loading data/heroes/Supzero/graphics/mediumkick/Supzero4.png done
+	Loading data/heroes/Supzero/graphics/mediumkick/Supzero5.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for mediumkick
+	I've just finished loading hitbox for mediumkick
+Loading multipier for mediumkick...
+	Loading multipier for mediumkick -> 10
+Loading multipier finished
+
+Loading repeat for mediumkick...
+Loading repeat finished
+
+Loading length for mediumkick...
+Loading length finished
+
+Loading damage for mediumkick...
+	Loading damage for mediumkick -> 25
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/lightpunch/Supzero0.png done
+	Loading data/heroes/Supzero/graphics/lightpunch/Supzero1.png done
+	Loading data/heroes/Supzero/graphics/lightpunch/Supzero2.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for lightpunch
+	I've just finished loading hitbox for lightpunch
+Loading multipier for lightpunch...
+	Loading multipier for lightpunch -> 10
+Loading multipier finished
+
+Loading repeat for lightpunch...
+Loading repeat finished
+
+Loading length for lightpunch...
+Loading length finished
+
+Loading damage for lightpunch...
+	Loading damage for lightpunch -> 5
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/lightkick/Supzero0.png done
+	Loading data/heroes/Supzero/graphics/lightkick/Supzero1.png done
+	Loading data/heroes/Supzero/graphics/lightkick/Supzero2.png done
+	Loading data/heroes/Supzero/graphics/lightkick/Supzero3.png done
+	Loading data/heroes/Supzero/graphics/lightkick/Supzero4.png done
+	Loading data/heroes/Supzero/graphics/lightkick/Supzero5.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+	I've just finished loading hitbox for lightkick
+	I've just finished loading hitbox for lightkick
+Loading multipier for lightkick...
+	Loading multipier for lightkick -> 10
+Loading multipier finished
+
+Loading repeat for lightkick...
+Loading repeat finished
+
+Loading length for lightkick...
+Loading length finished
+
+Loading damage for lightkick...
+	Loading damage for lightkick -> 5
+Loading damage finished
+
+Loading hitboxes finished
+
+loading special hits for Supzero
+DANA: lowpunch
+DANA: lowkick
+DANA: lowblock
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/lowpunch/Supzero0.png done
+	Loading data/heroes/Supzero/graphics/lowpunch/Supzero1.png done
+	Loading data/heroes/Supzero/graphics/lowpunch/Supzero2.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+Loading multipier for lowpunch...
+	Loading multipier for lowpunch -> 10
+Loading multipier finished
+
+Loading repeat for lowpunch...
+Loading repeat finished
+
+Loading length for lowpunch...
+Loading length finished
+
+Loading damage for lowpunch...
+	Loading damage for lowpunch -> 10
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/lowkick/Supzero0.png done
+	Loading data/heroes/Supzero/graphics/lowkick/Supzero1.png done
+	Loading data/heroes/Supzero/graphics/lowkick/Supzero2.png done
+	Loading data/heroes/Supzero/graphics/lowkick/Supzero3.png done
+	Loading data/heroes/Supzero/graphics/lowkick/Supzero4.png done
+	Loading data/heroes/Supzero/graphics/lowkick/Supzero5.png done
+	Loading data/heroes/Supzero/graphics/lowkick/Supzero6.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+Loading multipier for lowkick...
+	Loading multipier for lowkick -> 15
+Loading multipier finished
+
+Loading repeat for lowkick...
+Loading repeat finished
+
+Loading length for lowkick...
+Loading length finished
+
+Loading damage for lowkick...
+	Loading damage for lowkick -> 50
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Supzero
+	Loading data/heroes/Supzero/graphics/lowblock/Supzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Supzero
+Loading multipier for lowblock...
+	Loading multipier for lowblock -> 15
+Loading multipier finished
+
+Loading repeat for lowblock...
+	Loading repeat for lowblock -> 1
+Loading repeat finished
+
+Loading length for lowblock...
+Loading length finished
+
+Loading damage for lowblock...
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmap procedure for missle
+FROM data/weapons/Missle1.png
+	Loading missle 1 done
+Bitmap loading procedure finished
+
+Starting loading hitboxes procedure for missle
+LOADING from file data/weapons/Missle1.xml
+	I've just finished loading hitbox for missle: 10 10 100 100
+Loading hitboxes finished
+
+Hero resources loading done in 2136
+Setting hero Infzero for player
+Loading hero resources
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/standing/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/standing/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/standing/Infzero2.png done
+	Loading data/heroes/Infzero/graphics/standing/Infzero3.png done
+	Loading data/heroes/Infzero/graphics/standing/Infzero4.png done
+	Loading data/heroes/Infzero/graphics/standing/Infzero5.png done
+	Loading data/heroes/Infzero/graphics/standing/Infzero6.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+Loading multipier for standing...
+	Loading multipier for standing -> 4
+Loading multipier finished
+
+Loading repeat for standing...
+Loading repeat finished
+
+Loading length for standing...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 4; rpt- 0; len- 0) finished
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/walking/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero2.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero3.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero4.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero5.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero6.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero7.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+Loading multipier for walking...
+	Loading multipier for walking -> 4
+Loading multipier finished
+
+Loading repeat for walking...
+	Loading repeat for walking -> 1
+Loading repeat finished
+
+Loading length for walking...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 4; rpt- 1; len- 0) finished
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/walking/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero2.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero3.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero4.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero5.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero6.png done
+	Loading data/heroes/Infzero/graphics/walking/Infzero7.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+Loading multipier for walking...
+	Loading multipier for walking -> 4
+Loading multipier finished
+
+Loading repeat for walking...
+	Loading repeat for walking -> 1
+Loading repeat finished
+
+Loading length for walking...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 4; rpt- 1; len- 0) finished
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/kneeling/Infzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for kneeling
+Loading multipier for kneeling...
+	Loading multipier for kneeling -> 10
+Loading multipier finished
+
+Loading repeat for kneeling...
+	Loading repeat for kneeling -> 1
+Loading repeat finished
+
+Loading length for kneeling...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 10; rpt- 1; len- 0) finished
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/jumping/Infzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for jumping
+Loading multipier for jumping...
+	Loading multipier for jumping -> 30
+Loading multipier finished
+
+Loading repeat for jumping...
+Loading repeat finished
+
+Loading length for jumping...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 30; rpt- 0; len- 0) finished
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/block/Infzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for block
+Loading multipier for block...
+	Loading multipier for block -> 2
+Loading multipier finished
+
+Loading repeat for block...
+	Loading repeat for block -> 1
+Loading repeat finished
+
+Loading length for block...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 2; rpt- 1; len- 0) finished
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/throwing/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/throwing/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/throwing/Infzero2.png done
+	Loading data/heroes/Infzero/graphics/throwing/Infzero3.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for throwing
+Loading multipier for throwing...
+	Loading multipier for throwing -> 10
+Loading multipier finished
+
+Loading repeat for throwing...
+Loading repeat finished
+
+Loading length for throwing...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 10; rpt- 0; len- 0) finished
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/hit/Infzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for hit
+Loading multipier for hit...
+	Loading multipier for hit -> 10
+Loading multipier finished
+
+Loading repeat for hit...
+Loading repeat finished
+
+Loading length for hit...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 10; rpt- 0; len- 0) finished
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/knockdown/Infzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for knockdown
+Loading multipier for knockdown...
+	Loading multipier for knockdown -> 10
+Loading multipier finished
+
+Loading repeat for knockdown...
+Loading repeat finished
+
+Loading length for knockdown...
+Loading length finished
+
+Loading hitboxes and attributes (mult- 10; rpt- 0; len- 0) finished
+Habaziaba
+Habaziaba
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/crouching/Infzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+COMPLEX complexaction-crouching
+	I've just finished loading hitbox for crouching
+dodaje 0 3 
+dodaje 0 1 
+Loading multipier for crouching...
+	Loading multipier for crouching -> 2
+Loading multipier finished
+
+Loading repeat for crouching...
+	Loading repeat for crouching -> 1
+Loading repeat finished
+
+Loading length for crouching...
+Loading length finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/crouching/Infzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+COMPLEX complexaction-crouching
+	I've just finished loading hitbox for crouching
+dodaje 0 3 
+dodaje 0 1 
+Loading multipier for crouching...
+	Loading multipier for crouching -> 2
+Loading multipier finished
+
+Loading repeat for crouching...
+	Loading repeat for crouching -> 1
+Loading repeat finished
+
+Loading length for crouching...
+Loading length finished
+
+Loading hitboxes finished
+
+Habaziaba
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/heavypunch/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/heavypunch/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/heavypunch/Infzero2.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for heavypunch
+	I've just finished loading hitbox for heavypunch
+Loading multipier for heavypunch...
+	Loading multipier for heavypunch -> 15
+Loading multipier finished
+
+Loading repeat for heavypunch...
+Loading repeat finished
+
+Loading length for heavypunch...
+Loading length finished
+
+Loading damage for heavypunch...
+	Loading damage for heavypunch -> 51
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/heavykick/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/heavykick/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/heavykick/Infzero2.png done
+	Loading data/heroes/Infzero/graphics/heavykick/Infzero3.png done
+	Loading data/heroes/Infzero/graphics/heavykick/Infzero4.png done
+	Loading data/heroes/Infzero/graphics/heavykick/Infzero5.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for heavykick
+	I've just finished loading hitbox for heavykick
+Loading multipier for heavykick...
+	Loading multipier for heavykick -> 15
+Loading multipier finished
+
+Loading repeat for heavykick...
+Loading repeat finished
+
+Loading length for heavykick...
+Loading length finished
+
+Loading damage for heavykick...
+	Loading damage for heavykick -> 50
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/mediumpunch/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/mediumpunch/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/mediumpunch/Infzero2.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for mediumpunch
+	I've just finished loading hitbox for mediumpunch
+Loading multipier for mediumpunch...
+	Loading multipier for mediumpunch -> 10
+Loading multipier finished
+
+Loading repeat for mediumpunch...
+Loading repeat finished
+
+Loading length for mediumpunch...
+Loading length finished
+
+Loading damage for mediumpunch...
+	Loading damage for mediumpunch -> 26
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/mediumkick/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/mediumkick/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/mediumkick/Infzero2.png done
+	Loading data/heroes/Infzero/graphics/mediumkick/Infzero3.png done
+	Loading data/heroes/Infzero/graphics/mediumkick/Infzero4.png done
+	Loading data/heroes/Infzero/graphics/mediumkick/Infzero5.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for mediumkick
+	I've just finished loading hitbox for mediumkick
+Loading multipier for mediumkick...
+	Loading multipier for mediumkick -> 10
+Loading multipier finished
+
+Loading repeat for mediumkick...
+Loading repeat finished
+
+Loading length for mediumkick...
+Loading length finished
+
+Loading damage for mediumkick...
+	Loading damage for mediumkick -> 25
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/lightpunch/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/lightpunch/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/lightpunch/Infzero2.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for lightpunch
+	I've just finished loading hitbox for lightpunch
+Loading multipier for lightpunch...
+	Loading multipier for lightpunch -> 5
+Loading multipier finished
+
+Loading repeat for lightpunch...
+Loading repeat finished
+
+Loading length for lightpunch...
+Loading length finished
+
+Loading damage for lightpunch...
+	Loading damage for lightpunch -> 6
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/lightkick/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/lightkick/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/lightkick/Infzero2.png done
+	Loading data/heroes/Infzero/graphics/lightkick/Infzero3.png done
+	Loading data/heroes/Infzero/graphics/lightkick/Infzero4.png done
+	Loading data/heroes/Infzero/graphics/lightkick/Infzero5.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+	I've just finished loading hitbox for lightkick
+	I've just finished loading hitbox for lightkick
+Loading multipier for lightkick...
+	Loading multipier for lightkick -> 5
+Loading multipier finished
+
+Loading repeat for lightkick...
+Loading repeat finished
+
+Loading length for lightkick...
+Loading length finished
+
+Loading damage for lightkick...
+	Loading damage for lightkick -> 5
+Loading damage finished
+
+Loading hitboxes finished
+
+loading special hits for Infzero
+DANA: lowpunch
+DANA: lowkick
+DANA: lowblock
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/lowpunch/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/lowpunch/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/lowpunch/Infzero2.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+Loading multipier for lowpunch...
+	Loading multipier for lowpunch -> 10
+Loading multipier finished
+
+Loading repeat for lowpunch...
+Loading repeat finished
+
+Loading length for lowpunch...
+Loading length finished
+
+Loading damage for lowpunch...
+	Loading damage for lowpunch -> 10
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/lowkick/Infzero0.png done
+	Loading data/heroes/Infzero/graphics/lowkick/Infzero1.png done
+	Loading data/heroes/Infzero/graphics/lowkick/Infzero2.png done
+	Loading data/heroes/Infzero/graphics/lowkick/Infzero3.png done
+	Loading data/heroes/Infzero/graphics/lowkick/Infzero4.png done
+	Loading data/heroes/Infzero/graphics/lowkick/Infzero5.png done
+	Loading data/heroes/Infzero/graphics/lowkick/Infzero6.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+Loading multipier for lowkick...
+	Loading multipier for lowkick -> 15
+Loading multipier finished
+
+Loading repeat for lowkick...
+Loading repeat finished
+
+Loading length for lowkick...
+Loading length finished
+
+Loading damage for lowkick...
+	Loading damage for lowkick -> 50
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmaps procedure for Infzero
+	Loading data/heroes/Infzero/graphics/lowblock/Infzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Infzero
+Loading multipier for lowblock...
+	Loading multipier for lowblock -> 15
+Loading multipier finished
+
+Loading repeat for lowblock...
+	Loading repeat for lowblock -> 1
+Loading repeat finished
+
+Loading length for lowblock...
+Loading length finished
+
+Loading damage for lowblock...
+Loading damage finished
+
+Loading hitboxes finished
+
+Starting loading bitmap procedure for missle
+FROM data/weapons/Missle0.png
+	Loading missle 0 done
+Bitmap loading procedure finished
+
+Starting loading hitboxes procedure for missle
+LOADING from file data/weapons/Missle0.xml
+	I've just finished loading hitbox for missle: 10 10 50 200
+Loading hitboxes finished
+
+Hero resources loading done in 2128
+Changing hero status from state: 0 - 1, value: 0 - 5
+Changing hero status from state: 1 - 0, value: 5 - 0
+Pushan backan misslan on 22839
+Changing hero status from state: 0 - 0, value: 6 - 0
+Changing hero status from state: 0 - 0, value: 0 - 7
+Changing hero status from state: 0 - 0, value: 0 - 4
+Changing hero status from state: 0 - 0, value: 0 - 1
+Changing hero status from state: 0 - 0, value: 1 - 0
+Pushan backan misslan on 31060
+Changing hero status from state: 0 - 0, value: 0 - 7
+Changing hero status from state: 0 - 0, value: 6 - 0
+Changing hero status from state: 0 - 1, value: 0 - 5
+Changing hero status from state: 1 - 0, value: 5 - 0
+Changing hero status from state: 0 - 1, value: 0 - 3
+Changing hero status from state: 1 - 0, value: 3 - 0
+Changing hero status from state: 0 - 1, value: 0 - 1
+Changing hero status from state: 1 - 0, value: 1 - 0
+Changing hero status from state: 0 - 0, value: 0 - 2
+Changing hero status from state: 0 - 0, value: 2 - 3
+Changing hero status from state: 0 - 0, value: 3 - 2
+Changing hero status from state: 0 - 0, value: 2 - 3
+Changing hero status from state: 0 - 0, value: 3 - 2
+Changing hero status from state: 0 - 0, value: 2 - 3
+Changing hero status from state: 0 - 0, value: 3 - 0
+Changing hero status from state: 0 - 1, value: 0 - 1
+Changing hero status from state: 1 - 0, value: 1 - 0
+Changing hero status from state: 0 - 1, value: 0 - 3
+Changing hero status from state: 1 - 0, value: 3 - 0
+Pushan backan misslan on 52167
+Changing hero status from state: 0 - 0, value: 0 - 7
+Changing hero status from state: 0 - 0, value: 6 - 0
+Changing hero status from state: 0 - 1, value: 0 - 5
+Changing hero status from state: 1 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 4
+Changing hero status from state: 0 - 0, value: 0 - 2
+Changing hero status from state: 0 - 1, value: 2 - 4
+Changing hero status from state: 1 - 0, value: 4 - 0
+Changing hero status from state: 0 - 1, value: 0 - 2
+Changing hero status from state: 1 - 0, value: 2 - 0
+Changing hero status from state: 0 - 1, value: 0 - 0
+Changing hero status from state: 1 - 0, value: 0 - 0
+Changing hero status from state: 0 - 1, value: 0 - 0
+Changing hero status from state: 1 - 0, value: 0 - 0
+Changing hero status from state: 0 - 1, value: 0 - 2
+Changing hero status from state: 1 - 0, value: 2 - 0
+Changing hero status from state: 0 - 1, value: 0 - 4
+Changing hero status from state: 1 - 0, value: 4 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 0, value: 0 - 5
+Changing hero status from state: 0 - 0, value: 5 - 0
+Changing hero status from state: 0 - 1, value: 0 - 5
+Changing hero status from state: 1 - 0, value: 5 - 0
+Changing hero status from state: 0 - 1, value: 0 - 3
+Changing hero status from state: 1 - 0, value: 3 - 0
+Changing hero status from state: 0 - 1, value: 0 - 1
+Changing hero status from state: 1 - 0, value: 1 - 0
+Pushan backan misslan on 63825
+Changing hero status from state: 0 - 0, value: 6 - 0
+Changing hero status from state: 0 - 0, value: 0 - 7
+Changing hero status from state: 0 - 0, value: 0 - 4
+Changing hero status from state: 0 - 0, value: 0 - 1
+Collision detected: 457 450 180 50 (0 0) | 637 450 180 50 (0 0) | 437, 300, 617, 300
+Changing hero status from state: 0 - 1, value: 1 - 5
+Collision detected: 569 430 110 50 (1 0) | 649 350 150 100 (0 0) | 399, 300, 599, 300
+Changing hero status from state: 0 - 0, value: 0 - 7
+Collision detected: 549 400 210 50 (1 0) | 639 350 150 100 (0 0) | 389, 300, 589, 300
+Changing hero status from state: 0 - 0, value: 0 - 7
+Collision detected: 548 400 210 50 (1 0) | 698 310 100 100 (0 0) | 388, 300, 588, 300
+Collision detected: 547 400 210 50 (1 0) | 697 310 100 100 (0 0) | 387, 300, 587, 300
+Collision detected: 546 400 210 50 (1 0) | 696 310 100 100 (0 0) | 386, 300, 586, 300
+Collision detected: 545 400 210 50 (1 0) | 695 310 100 100 (0 0) | 385, 300, 585, 300
+Collision detected: 544 400 210 50 (1 0) | 694 310 100 100 (0 0) | 384, 300, 584, 300
+Collision detected: 543 400 210 50 (1 0) | 693 310 100 100 (0 0) | 383, 300, 583, 300
+Collision detected: 542 400 210 50 (1 0) | 692 310 100 100 (0 0) | 382, 300, 582, 300
+Collision detected: 541 400 210 50 (1 0) | 691 310 100 100 (0 0) | 381, 300, 581, 300
+Changing hero status from state: 1 - 0, value: 5 - 0
+Changing hero status from state: 0 - 1, value: 0 - 5
+Collision detected: 492 430 110 50 (1 0) | 572 350 150 100 (0 0) | 322, 300, 522, 300
+Changing hero status from state: 0 - 0, value: 0 - 7
+Collision detected: 472 400 210 50 (1 0) | 562 350 150 100 (0 0) | 312, 300, 512, 300
+Changing hero status from state: 0 - 0, value: 0 - 7
+Collision detected: 471 400 210 50 (1 0) | 621 310 100 100 (0 0) | 311, 300, 511, 300
+Collision detected: 470 400 210 50 (1 0) | 620 310 100 100 (0 0) | 310, 300, 510, 300
+Collision detected: 469 400 210 50 (1 0) | 619 310 100 100 (0 0) | 309, 300, 509, 300
+Collision detected: 468 400 210 50 (1 0) | 618 310 100 100 (0 0) | 308, 300, 508, 300
+Collision detected: 467 400 210 50 (1 0) | 617 310 100 100 (0 0) | 307, 300, 507, 300
+Collision detected: 466 400 210 50 (1 0) | 616 310 100 100 (0 0) | 306, 300, 506, 300
+Collision detected: 465 400 210 50 (1 0) | 615 310 100 100 (0 0) | 305, 300, 505, 300
+Collision detected: 464 400 210 50 (1 0) | 614 310 100 100 (0 0) | 304, 300, 504, 300
+Changing hero status from state: 1 - 0, value: 5 - 0
+Collision detected: 332 350 180 100 (0 0) | 512 350 180 100 (0 0) | 302, 300, 502, 300
+Changing hero status from state: 0 - 1, value: 0 - 3
+Collision detected: 442 430 110 50 (1 0) | 552 450 180 50 (0 0) | 272, 300, 532, 300
+Changing hero status from state: 0 - 0, value: 0 - 7
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 1 - 0, value: 3 - 0
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Changing hero status from state: 0 - 0, value: 8 - 0
+Changing hero status from state: 0 - 0, value: 0 - 8
+Thumbnail from path data/thumbnails/heroes/Subzero.png loaded successfully
+Thumbnail from path data/thumbnails/heroes/Supzero.png loaded successfully
+Thumbnail from path data/thumbnails/heroes/Equalszero.png loaded successfully
+Thumbnail from path data/thumbnails/heroes/Infzero.png loaded successfully

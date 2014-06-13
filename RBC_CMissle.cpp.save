@@ -1,0 +1,28 @@
+#include "RBC_CMissle.h"
+
+void RBC_CMissle::RBC_LoadMissle(int number){
+	printf("Starting loading hitboxes procedure for %ss missle\n", heroname);
+	std::string path= "data/weapons/missle";
+    path+=number;
+    path+=".xml";
+    std::string buffpath;
+	RBC_CXMLParser::RBC_LoadXMLFile(path.c_str());
+	for(int i=0; i<LIMITER; i++){
+		buffhitb.x=atoi(RBC_CXMLParser::RBC_GetXMLData("document", "missle", "x", i));
+		if(buffhitb.x==NULL){i=LIMITER+1;continue;}
+		buffhitb.y=atoi(RBC_CXMLParser::RBC_GetXMLData("document", "missle", "y", i));
+		buffhitb.w=atoi(RBC_CXMLParser::RBC_GetXMLData("document", "missle", "w", i));
+		buffhitb.h=atoi(RBC_CXMLParser::RBC_GetXMLData("document", "missle", "h", i));
+		buffhitb.start=atoi(RBC_CXMLParser::RBC_GetXMLData("document", "missle", "startframe", i));
+		buffhitb.finish=atoi(RBC_CXMLParser::RBC_GetXMLData("document", "missle", "finishframe", i));
+		buffhitb.defensive=0;
+		buffhitb.offensive=1;
+		damage=atoi(RBC_CXMLParser::RBC_GetXMLData("document", "damage", i));
+		hitbox.push_back(buffhitb);
+		printf("\tI've just finished loading hitbox for missle\n",);
+	}
+	RBC_LoadMultipier(heroname);
+	RBC_LoadLength(heroname);
+	printf("Loading hitboxes finished\n\n");
+
+}

@@ -1,0 +1,106 @@
+#ifdef __cplusplus
+#include <cstdlib>
+#else
+#include <stdlib.h>
+#endif
+
+#include <SDL.h>
+#include <SDL_image.h>
+#include <SDL_ttf.h>
+
+#include <vector.h>
+
+#include "RBC_CEngineFunctions.h"
+#include "RBC_CPlayer.h"
+#include "RBC_CMap.h"
+
+int main ( int argc, char** argv )
+{
+    RBC_CEngineFunctions::RBC_InitEverything();
+
+    RBC_CHero hero("Subzero");
+    RBC_CMap mapzero;
+
+	RBC_CPlayer plejer;
+	plejer.RBC_SetHero(&hero);
+
+    // program main loop
+    bool done = false;
+    while (!done)
+    {
+        RBC_CEngineFunctions::RBC_NextLoop();
+        // message processing loop
+        
+
+        if (event.type==SDL_KEYDOWN && event.key.keysym.sym == SDLK_RIGHT){
+				plejer.RBC_MoveHeroRight();
+        }
+        else if (event.type==SDL_KEYDOWN && event.key.keysym.sym == SDLK_LEFT){
+
+        }
+
+        while (SDL_PollEvent(&event))
+        {
+            // check for messages
+            switch (event.type)
+            {
+                // exit if the window is closed
+
+
+            case SDL_QUIT:
+                done = true;
+                break;
+
+                // check for keypresses
+            case SDL_KEYDOWN:
+            {
+                // exit if ESCAPE is pressed
+                if (event.key.keysym.sym == SDLK_ESCAPE)
+                    done = true;
+                if (event.key.keysym.sym == SDLK_RIGHT){
+
+                }
+                if (event.key.keysym.sym == SDLK_LEFT){
+
+                }
+                if (event.key.keysym.sym == SDLK_DOWN){
+
+                }
+                if (event.key.keysym.sym==SDLK_SPACE){
+
+                }
+                break;
+            }
+            case SDL_KEYUP:
+            {
+                break;
+            }
+            } // end switch
+        } // end of message processing
+
+        // DRAWING STARTS HERE
+
+        // clear screen
+        RBC_CEngineFunctions::RBC_ClearScreen();
+
+        // draw bitmap
+        //mapzero.Draw();
+        plejer.RBC_DrawHero();
+
+        RBC_CEngineFunctions::RBC_Write(10, 10, "FPS: ");
+
+        RBC_CEngineFunctions::RBC_Write(75, 10, RBC_CEngineFunctions::RBC_GetFPS());
+        RBC_CEngineFunctions::RBC_Write(100, 100, plejer.RBC_GetX());
+        RBC_CEngineFunctions::RBC_Write(100, 150, plejer.RBC_GetHeroStatus());
+        // DRAWING ENDS HERE
+
+        // finally, update the screen
+        RBC_CEngineFunctions::RBC_Flip();
+    } // end main loop
+
+    // free loaded bitmap
+
+    // all is well ;)
+    printf("Exited cleanly\n");
+    return 0;
+}

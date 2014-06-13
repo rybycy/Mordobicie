@@ -1,0 +1,24 @@
+#ifndef RBC_CMap_H
+#define RBC_CMap_H
+
+#include <string>
+#include "RBC_CEngineFunctions.h"
+
+class RBC_CMap{
+	private:
+		SDL_Surface* map;
+		SDL_Rect shift;
+		int width;
+		std::string path;
+
+		static char charbuff[100];
+
+		static int mapcounter;
+	public:
+		RBC_CMap(void);
+
+		void Draw(void);
+
+};
+
+#endif

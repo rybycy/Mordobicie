@@ -1,0 +1,570 @@
+# depslib dependency file v1.0
+1314899795 source:c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<vector.h>
+	"RBC_CEngineFunctions.h"
+	"RBC_CGameManager.h"
+
+1255800450 c:\program files\codeblocks\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1314630771 source:c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_engine_functions.cpp
+	"RBC_engine_functions.h"
+
+1314530387 c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_engine_functions.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1314549599 c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_engine_functions.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1255912094 c:\program files\codeblocks\sdl\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1314649400 c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_chero.cpp
+	"RBC_CEngineFunctions.h"
+	<string>
+	<SDL.h>
+
+1314872284 source:c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_chero.cpp
+	"RBC_CHero.h"
+
+1258249878 c:\program files\codeblocks\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1314545732 source:c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\obijanie ryja\mordobicie\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1314913887 c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_cenginefunctions.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"tinyxml/tinyxml.h"
+
+1314899752 source:c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_cenginefunctions.cpp
+	"RBC_CEngineFunctions.h"
+
+1314874224 c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_chero.h
+	"RBC_CEngineFunctions.h"
+	<string>
+
+1314704065 source:c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_cmap.cpp
+	"RBC_CMap.h"
+
+1314704062 c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_cmap.h
+	<string>
+	"RBC_CEngineFunctions.h"
+
+1314871791 c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_cplayer.h
+	"RBC_CHero.h"
+
+1314900668 source:c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_cplayer.cpp
+	"RBC_CPlayer.h"
+
+1314901827 source:c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_ckeyboard.cpp
+	"RBC_CKeyboard.h"
+
+1314901245 c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_ckeyboard.h
+	<SDL.h>
+	<vector.h>
+	"RBC_CEngineFunctions.h"
+
+1314902682 source:c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_cgamemanager.cpp
+	"RBC_CGameManager.h"
+
+1314902532 c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\rbc_cgamemanager.h
+	"RBC_CKeyboard.h"
+	"RBC_CHero.h"
+	"RBC_CPlayer.h"
+
+1305393898 c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305393898 c:\documents and settings\@rybycy\moje dokumenty\c++\sdl\mordobicie\mordobicie\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1314913909 source:c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_cenginefunctions.cpp
+	"RBC_CEngineFunctions.h"
+
+1314913887 c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_cenginefunctions.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"tinyxml/tinyxml.h"
+
+1305393898 c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305393898 c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1314902682 source:c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_cgamemanager.cpp
+	"RBC_CGameManager.h"
+
+1314902532 c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_cgamemanager.h
+	"RBC_CKeyboard.h"
+	"RBC_CHero.h"
+	"RBC_CPlayer.h"
+
+1314901245 c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_ckeyboard.h
+	<SDL.h>
+	<vector.h>
+	"RBC_CEngineFunctions.h"
+
+1314874224 c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_chero.h
+	"RBC_CEngineFunctions.h"
+	<string>
+
+1314871791 c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_cplayer.h
+	"RBC_CHero.h"
+
+1314914552 source:c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_chero.cpp
+	"RBC_CHero.h"
+
+1314901827 source:c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_ckeyboard.cpp
+	"RBC_CKeyboard.h"
+
+1314704065 source:c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_cmap.cpp
+	"RBC_CMap.h"
+
+1314704062 c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_cmap.h
+	<string>
+	"RBC_CEngineFunctions.h"
+
+1314900668 source:c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\rbc_cplayer.cpp
+	"RBC_CPlayer.h"
+
+1314899795 source:c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<vector.h>
+	"RBC_CEngineFunctions.h"
+	"RBC_CGameManager.h"
+
+1305393898 source:c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1305393898 source:c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305393898 source:c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305393898 source:c:\documents and settings\@rybycy\pulpit\mordobicie\mordobicie\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1317058239 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cenginefunctions.cpp
+	"RBC_CEngineFunctions.h"
+
+1316513705 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cenginefunctions.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1305393898 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305393898 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1317204342 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cgamemanager.cpp
+	"RBC_CGameManager.h"
+
+1317064563 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cgamemanager.h
+	<vector.h>
+	"RBC_CPlayer.h"
+	"RBC_CKeyboard.h"
+	"RBC_CMap.h"
+
+1316680190 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_ckeyboard.h
+	<SDL.h>
+	<vector.h>
+
+1316857023 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_chero.h
+	"RBC_CEngineFunctions.h"
+	"RBC_CXMLParser.h"
+	"RBC_CHeroAction.h"
+	"RBC_CHeroComplexAction.h"
+	"RBC_CHeroBasicAttack.h"
+	"RBC_CHeroSpecialAttack.h"
+	"RBC_CMissle.h"
+	<vector.h>
+
+1317027374 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cplayer.h
+	<vector.h>
+	"RBC_CHero.h"
+	"RBC_CHitbox.h"
+	"RBC_CKeyboard.h"
+	"RBC_CPlayerState.h"
+
+1317110209 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_chero.cpp
+	"RBC_CHero.h"
+
+1316679659 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_ckeyboard.cpp
+	"RBC_CKeyboard.h"
+
+1316940775 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cmap.cpp
+	"RBC_CMap.h"
+
+1316938775 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cmap.h
+	<string>
+	"RBC_CEngineFunctions.h"
+
+1317108632 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cplayer.cpp
+	"RBC_CPlayer.h"
+
+1315683626 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<vector.h>
+	"RBC_CEngineFunctions.h"
+	"RBC_CGameManager.h"
+
+1305393898 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1305393898 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305393898 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305393898 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1316077954 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_chitbox.h
+
+1314950333 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_chitbox.cpp
+	"RBC_CHitbox.h"
+
+1305393898 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml_sources\tinystr.cpp
+	"tinystr.h"
+
+1305393898 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml_sources\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305393898 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml_sources\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305393898 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml_sources\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1316444741 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cxmlparser.h
+	"tinyxml/tinyxml.h"
+
+1316444843 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cxmlparser.cpp
+	"RBC_CXMLParser.h"
+
+1315387092 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_ckeybinder.h
+	"RBC_CXMLParser.h"
+
+1316786512 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cheroaction.h
+	"RBC_CXMLParser.h"
+	"RBC_CEngineFunctions.h"
+	"RBC_CHitbox.h"
+	<SDL.h>
+	<string.h>
+	<vector.h>
+
+1316856357 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cheroaction.cpp
+	"RBC_CHeroAction.h"
+
+1316786369 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cherobasicattack.cpp
+	"RBC_CHeroBasicAttack.h"
+
+1316760807 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cherobasicattack.h
+	"RBC_CHeroAction.h"
+
+1316676322 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cherospecialattack.cpp
+	"RBC_CHeroSpecialAttack.h"
+
+1316676219 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cherospecialattack.h
+	"RBC_CHeroBasicAttack.h"
+	"RBC_CPlayerState.h"
+	<vector.h>
+
+1316676621 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cplayerstate.h
+
+1315731696 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cplayerstate.cpp
+	"RBC_CPlayerState.h"
+
+1316676280 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cherocomplexaction.h
+	"RBC_CHeroAction.h"
+	"RBC_CPlayerState.h"
+	<math.h>
+
+1316786399 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cherocomplexaction.cpp
+	"RBC_CHeroComplexAction.h"
+
+1316443140 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cherothrowattack.cpp
+	"RBC_CHeroThrowAttack.h"
+
+1316442897 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cherothrowattack.h
+	"RBC_CHeroBasicAttack.h"
+	"RBC_CMissle.h"
+
+1316709078 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cmissle.h
+	<vector.h>
+	"RBC_CEngineFunctions.h"
+	"RBC_CXMLParser.h"
+	"RBC_CHitbox.h"
+
+1316708872 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cmissle.cpp
+	"RBC_CMissle.h"
+
+1317113554 source:c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cstate.cpp
+	"RBC_CState.h"
+
+1317205471 c:\documents and settings\@rybycy\moje dokumenty\dropbox\c++\sdl\mordobicie\mordobicie\rbc_cstate.h
+
+1327878922 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cenginefunctions.cpp
+	"RBC_CEngineFunctions.h"
+
+1328029432 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cenginefunctions.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1327831568 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cgamemanager.cpp
+	"RBC_CGameManager.h"
+
+1327833474 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cgamemanager.h
+	<vector>
+	"RBC_CEngineFunctions.h"
+	"RBC_CPlayer.h"
+	"RBC_CKeyboard.h"
+	"RBC_CMap.h"
+
+1327831546 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cplayer.h
+	<vector>
+	"RBC_CHero.h"
+	"RBC_CHitbox.h"
+	"RBC_CKeyboard.h"
+	"RBC_CPlayerState.h"
+
+1327831524 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_chero.h
+	"RBC_CEngineFunctions.h"
+	"RBC_CXMLParser.h"
+	"RBC_CHeroAction.h"
+	"RBC_CHeroComplexAction.h"
+	"RBC_CHeroBasicAttack.h"
+	"RBC_CHeroSpecialAttack.h"
+	"RBC_CMissle.h"
+	<vector>
+
+1316441141 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cxmlparser.h
+	"tinyxml/tinyxml.h"
+
+1305390298 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305390298 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1327833073 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cheroaction.h
+	"RBC_CXMLParser.h"
+	"RBC_CEngineFunctions.h"
+	"RBC_CHitbox.h"
+	<SDL/SDL.h>
+	<string>
+	<vector>
+
+1316074354 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_chitbox.h
+
+1327830995 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cherocomplexaction.h
+	"RBC_CHeroAction.h"
+	"RBC_CPlayerState.h"
+	<math.h>
+
+1316673021 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cplayerstate.h
+
+1316757207 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cherobasicattack.h
+	"RBC_CHeroAction.h"
+
+1327831003 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cherospecialattack.h
+	"RBC_CHeroBasicAttack.h"
+	"RBC_CPlayerState.h"
+	<vector>
+
+1327832184 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cmissle.h
+	<vector>
+	<string>
+	"RBC_CEngineFunctions.h"
+	"RBC_CXMLParser.h"
+	"RBC_CHitbox.h"
+
+1327833108 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_ckeyboard.h
+	<SDL/SDL.h>
+	<vector>
+
+1316935175 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cmap.h
+	<string>
+	"RBC_CEngineFunctions.h"
+
+1327831578 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_chero.cpp
+	"RBC_CHero.h"
+
+1327831585 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cheroaction.cpp
+	"RBC_CHeroAction.h"
+
+1316782769 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cherobasicattack.cpp
+	"RBC_CHeroBasicAttack.h"
+
+1327831591 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cherocomplexaction.cpp
+	"RBC_CHeroComplexAction.h"
+
+1327831595 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cherospecialattack.cpp
+	"RBC_CHeroSpecialAttack.h"
+
+1314946733 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_chitbox.cpp
+	"RBC_CHitbox.h"
+
+1327831802 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_ckeyboard.cpp
+	"RBC_CKeyboard.h"
+
+1316937175 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cmap.cpp
+	"RBC_CMap.h"
+
+1327831818 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cmissle.cpp
+	"RBC_CMissle.h"
+
+1327832196 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cplayer.cpp
+	"RBC_CPlayer.h"
+
+1315728096 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cplayerstate.cpp
+	"RBC_CPlayerState.h"
+
+1317109954 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cstate.cpp
+	"RBC_CState.h"
+
+1317201871 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cstate.h
+
+1316441243 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cxmlparser.cpp
+	"RBC_CXMLParser.h"
+
+1327832971 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<vector>
+	"RBC_CEngineFunctions.h"
+	"RBC_CGameManager.h"
+
+1305390298 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml_sources\tinystr.cpp
+	"tinystr.h"
+
+1305390298 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml_sources\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305390298 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml_sources\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305390298 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\tinyxml\tinyxml_sources\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1317207858 source:g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cheroesmenustate.cpp
+	"RBC_CHeroesMenuState.h"
+
+1327057368 g:\dropbox\programowanie\archive\c++\sdl\mordobicie\mordobicie\rbc_cheroesmenustate.h
+	"RBC_CState.h"
+

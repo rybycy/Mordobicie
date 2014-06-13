@@ -1,0 +1,316 @@
+Requesting new hero...
+Class CHero has received name of hero:'Subzero'
+Creating action standingCreating action walkingCreating action walkingCreating action kneelingCreating action jumpingCreating basic attack highpunchCreating basic attack highkickHero loaded
+Requesting new hero...
+Nothing found, exiting
+Found key bindings for player[0] 
+	Loading KEY_RIGHT for player 0 on key 275...
+	Loading KEY_LEFT for player 0 on key 276...
+	Loading KEY_KNEEL for player 0 on key 274...
+	Loading KEY_JUMP for player 0 on key 273...
+	Loading KEY_PUNCH for player 0 on key 97...
+	Loading KEY_KICK for player 0 on key 115...
+Found key bindings for player[1] 
+	Loading KEY_RIGHT for player 1 on key 262...
+	Loading KEY_LEFT for player 1 on key 260...
+	Loading KEY_KNEEL for player 1 on key 261...
+	Loading KEY_JUMP for player 1 on key 264...
+	Loading KEY_PUNCH for player 1 on key 257...
+	Loading KEY_KICK for player 1 on key 258...
+Setting hero Subzero for player
+Loading hero resources
+Starting loading bitmaps procedure for Subzero
+	Loading data/heroes/Subzero/graphics/standing/Subzero0.png done
+	Loading data/heroes/Subzero/graphics/standing/Subzero1.png done
+	Loading data/heroes/Subzero/graphics/standing/Subzero2.png done
+	Loading data/heroes/Subzero/graphics/standing/Subzero3.png done
+	Loading data/heroes/Subzero/graphics/standing/Subzero4.png done
+	Loading data/heroes/Subzero/graphics/standing/Subzero5.png done
+	Loading data/heroes/Subzero/graphics/standing/Subzero6.png done
+	Loading data/heroes/Subzero/graphics/standing/Subzero7.png done
+	Loading data/heroes/Subzero/graphics/standing/Subzero8.png done
+	Loading data/heroes/Subzero/graphics/standing/Subzero9.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Subzero
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+	I've just finished loading hitbox for standing
+Loading action multipiers for standing...
+	Loading multipier for standing -> 4
+Loading multipiers finished
+
+Loading action length for standing
+Loading action length done
+Loading hitboxes finished
+
+In standing; from 70 to 91
+In standing; from 20 to 71
+In standing; from 20 to 41
+In standing; from 80 to 81
+In standing; from 30 to 31
+In standing; from 50 to 11
+Starting loading bitmaps procedure for Subzero
+	Loading data/heroes/Subzero/graphics/walking/Subzero0.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero1.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero2.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero3.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero4.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero5.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero6.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero7.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero8.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero9.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Subzero
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+Loading action multipiers for walking...
+	Loading multipier for walking -> 4
+Loading multipiers finished
+
+Loading action length for walking
+	Loading length for walking -> 40
+	Loading repeat mode for walking
+Loading action length done
+Loading hitboxes finished
+
+In walking; from 70 to 170
+In walking; from 20 to 150
+In walking; from 20 to 120
+In walking; from 80 to 160
+In walking; from 30 to 110
+In walking; from 50 to 90
+Starting loading bitmaps procedure for Subzero
+	Loading data/heroes/Subzero/graphics/walking/Subzero0.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero1.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero2.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero3.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero4.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero5.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero6.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero7.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero8.png done
+	Loading data/heroes/Subzero/graphics/walking/Subzero9.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Subzero
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+	I've just finished loading hitbox for walking
+Loading action multipiers for walking...
+	Loading multipier for walking -> 4
+Loading multipiers finished
+
+Loading action length for walking
+	Loading length for walking -> 40
+	Loading repeat mode for walking
+Loading action length done
+Loading hitboxes finished
+
+In walking; from 70 to 170
+In walking; from 20 to 150
+In walking; from 20 to 120
+In walking; from 80 to 160
+In walking; from 30 to 110
+In walking; from 50 to 90
+Starting loading bitmaps procedure for Subzero
+	Loading data/heroes/Subzero/graphics/kneeling/Subzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Subzero
+	I've just finished loading hitbox for kneeling
+Loading action multipiers for kneeling...
+	Loading multipier for kneeling -> 10
+Loading multipiers finished
+
+Loading action length for kneeling
+	Loading repeat mode for kneeling
+Loading action length done
+Loading hitboxes finished
+
+In kneeling; from 140 to 65
+Starting loading bitmaps procedure for Subzero
+	Loading data/heroes/Subzero/graphics/jumping/Subzero0.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Subzero
+	I've just finished loading hitbox for jumping
+Loading action multipiers for jumping...
+	Loading multipier for jumping -> 10
+Loading multipiers finished
+
+Loading action length for jumping
+	Loading length for jumping -> 20
+Loading action length done
+Loading hitboxes finished
+
+In jumping; from 70 to 91
+Habaziaba
+Habaziaba
+Starting loading bitmaps procedure for Subzero
+	Loading data/heroes/Subzero/graphics/highpunch/Subzero0.png done
+	Loading data/heroes/Subzero/graphics/highpunch/Subzero1.png done
+	Loading data/heroes/Subzero/graphics/highpunch/Subzero2.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Subzero
+	I've just finished loading hitbox for highpunch
+	I've just finished loading hitbox for highpunch
+	I've just finished loading hitbox for highpunch
+Loading action multipiers for highpunch...
+	Loading multipier for highpunch -> 5
+Loading multipiers finished
+
+Loading action length for highpunch
+	Loading length for highpunch -> 10
+Loading action length done
+Loading hitboxes finished
+
+In highpunch; from 300 to 104
+In highpunch; from 350 to 54
+In highpunch; from 405 to -1
+Starting loading bitmaps procedure for Subzero
+	Loading data/heroes/Subzero/graphics/highkick/Subzero0.png done
+	Loading data/heroes/Subzero/graphics/highkick/Subzero1.png done
+	Loading data/heroes/Subzero/graphics/highkick/Subzero2.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Subzero
+	I've just finished loading hitbox for highkick
+	I've just finished loading hitbox for highkick
+	I've just finished loading hitbox for highkick
+	I've just finished loading hitbox for highkick
+	I've just finished loading hitbox for highkick
+Loading action multipiers for highkick...
+	Loading multipier for highkick -> 10
+Loading multipiers finished
+
+Loading action length for highkick
+Loading action length done
+Loading hitboxes finished
+
+In highkick; from 300 to 201
+In highkick; from 300 to 201
+In highkick; from 325 to 176
+In highkick; from 350 to 151
+In highkick; from 300 to 136
+loading special hits for Subzero
+DANA: lowpunch
+DANA: lowkick
+Starting loading bitmaps procedure for Subzero
+	Loading data/heroes/Subzero/graphics/lowpunch/Subzero0.png done
+	Loading data/heroes/Subzero/graphics/lowpunch/Subzero1.png done
+	Loading data/heroes/Subzero/graphics/lowpunch/Subzero2.png done
+	Loading data/heroes/Subzero/graphics/lowpunch/Subzero3.png done
+	Loading data/heroes/Subzero/graphics/lowpunch/Subzero4.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Subzero
+Loading action multipiers for lowpunch...
+	Loading multipier for lowpunch -> 10
+Loading multipiers finished
+
+Loading action length for lowpunch
+	Loading length for lowpunch -> 50
+Loading action length done
+Loading hitboxes finished
+
+In lowpunch; from 305 to -12
+In lowpunch; from 300 to -7
+In lowpunch; from 325 to -32
+In lowpunch; from 350 to -57
+In lowpunch; from 300 to -72
+Starting loading bitmaps procedure for Subzero
+	Loading data/heroes/Subzero/graphics/lowkick/Subzero0.png done
+	Loading data/heroes/Subzero/graphics/lowkick/Subzero1.png done
+	Loading data/heroes/Subzero/graphics/lowkick/Subzero2.png done
+Bitmaps loading procedure finished
+
+Starting loading hitboxes procedure for Subzero
+Loading action multipiers for lowkick...
+	Loading multipier for lowkick -> 15
+Loading multipiers finished
+
+Loading action length for lowkick
+	Loading length for lowkick -> 45
+Loading action length done
+Loading hitboxes finished
+
+Hero resources loading done in 1000
+Setting hero Subzero for player
+Resources for this hero has been already loaded, skipping
+Changing hero status from state: 0 - 0, value: 0 - 4
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 0 (0-0) and 0 (4-3)
+NOPE
+Comparing number 1 (0-0) and 0 (1-3)
+NOPE
+Comparing number 1 (0-0) and 0 (1-3)
+NOPE
+Changing hero status from state: 0 - 1, value: 0 - 0
+Comparing number 2 (1-0) and 0 (0-3)
+NOPE
+Comparing number 2 (1-0) and 0 (0-3)
+NOPE
+Changing hero status from state: 1 - 0, value: 0 - 0
+Comparing number 3 (1-0) and 0 (1-3)
+NOPE
+Comparing number 3 (1-0) and 0 (1-3)
+NOPE
+Changing hero status from state: 0 - 1, value: 0 - 0
+Comparing number 4 (1-0) and 0 (0-3)
+NOPE
+Comparing number 4 (1-0) and 0 (0-3)
+NOPE
+Changing hero status from state: 1 - 0, value: 0 - 0
+Comparing number 5 (1-0) and 0 (1-3)
+NOPE
+Comparing number 5 (1-0) and 0 (1-3)
+NOPE
+Changing hero status from state: 0 - 1, value: 0 - 0
+Changing hero status from state: 1 - 0, value: 0 - 0

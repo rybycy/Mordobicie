@@ -1,0 +1,75 @@
+#ifndef RBC_CHEROACTION_H
+#define RBC_CHEROACTION_H
+
+#include "RBC_CXMLParser.h"
+#include "RBC_CEngineFunctions.h"
+#include "RBC_CHitbox.h"
+
+#include <SDL.h>
+#include <string.h>
+#include <vector.h>
+
+#define LIMITER 1001
+
+class RBC_CHeroAction
+{
+	protected:
+		std::string actionname; /**< The name of action */
+
+		std::string tree; /**< String made for filling the path of actions (and derivatives) */
+
+		int multipier; /**< Multipier of animations. Every animation has been made with different frame skipping and frame c*/
+
+		int length;
+
+		bool repeat;
+
+		vector<RBC_CHitbox> hitbox;
+
+		vector<SDL_Surface*> bitmap;
+
+		/**< Buffer variables */
+		std::string stringbuff;
+		int intbuff;
+		char charbuff[100];
+		RBC_CHitbox buffhitb;
+
+	public:
+
+		SDL_Surface* RBC_GetActualBitmap(int frame){return bitmap[frame%bitmap.size()];}
+
+		vector<RBC_CHitbox> RBC_GetActualHitbox(int frame);
+
+		int RBC_GetSize(void){return bitmap.size();}
+
+		int RBC_GetMultipier(void){return multipier;}
+
+		int RBC_GetLength(void){return length;}
+
+		bool RBC_GetRepeat(void){return repeat;}
+
+
+		RBC_CHeroAction(void){multipier=2;repeat=0;}
+
+		RBC_CHeroAction(const char *naem);
+
+
+		void RBC_ReverseActionAnimation(void);
+
+		void RBC_FlipActionAnimation(void);
+
+
+		void RBC_LoadHitboxes(const char *heroname);
+
+		void RBC_LoadMultipier(const char *heroname);
+
+		void RBC_LoadLength(const char *heroname);
+
+		void RBC_LoadBitmaps(const char *heroname);
+
+
+
+
+};
+
+#endif // RBC_CHEROACTION_H

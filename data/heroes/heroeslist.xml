@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heroeslist>
+	<hero name="Subzero" hitpoints="300" missle="0"/>
+	<hero name="Supzero" hitpoints="600" missle="1"/>
+	<hero name="Equalszero" hitpoints="900" missle="0"/>
+	<hero name="Infzero" hitpoints="900" missle="0"/>
+</heroeslist>

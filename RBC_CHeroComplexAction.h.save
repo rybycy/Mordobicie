@@ -1,0 +1,22 @@
+#ifndef RBC_CHEROCOMPLEXACTION_H
+#define RBC_CHEROCOMPLEXACTION_H
+
+#include "RBC_CHeroAction.h"
+#include "RBC_CPlayerState.h"
+
+class RBC_CHeroComplexAction : public RBC_CHeroAction
+{
+	protected:
+
+	vector<RBC_CPlayerState> combination; /**< Combination of states your hero have to perform to do a complex action */
+
+	public:
+
+	bool RBC_IsComplexActionExecuted();
+
+	RBC_CHeroComplexAction(const char naem
+
+	void RBC_AddToCombination(int a, int b){RBC_CPlayerState x;x.state=a;x.value=b;combination.push_back(x);}
+};
+
+#endif // RBC_CHEROCOMPLEXACTION_H

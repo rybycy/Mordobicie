@@ -1,0 +1,5 @@
+#include "RBC_CMap.h"
+
+RBC_CMap::RBC_CMap(void){
+	
+}
